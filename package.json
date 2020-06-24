@@ -29,7 +29,7 @@
         "typescript": "^3.9.2"
     },
     "scripts": {
-        "start": "nodemon src/index.ts",
+        "start": "nodemon -L src/index.ts",
         "build": "tsc -p ./",
         "seed": "ts-node temp/seed.ts",
         "clear": "ts-node temp/clear.ts"
