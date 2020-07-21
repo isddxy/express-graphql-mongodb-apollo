@@ -1,5 +1,5 @@
 {
-    "name": "cashflowing-server",
+    "name": "express-graphql-server",
     "version": "0.1.0",
     "dependencies": {
         "apollo-server-express": "^2.13.1",
